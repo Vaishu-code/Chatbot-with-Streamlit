@@ -1,5 +1,4 @@
-# Chatbot-with-Streamlit
-Chatbot with Streamlit This project is a simple chatbot application built using Python and Streamlit. The chatbot uses predefined responses based on user inputs and is accessible through a web-based interface. The application is hosted on Streamlit Cloud, making it easy to interact with the chatbot directly in your web browser.
+
 # Chatbot with Streamlit
 
 This project is a simple **chatbot application** built using **Python** and **Streamlit**. The chatbot uses predefined responses based on user input and is accessible through a web-based interface. The application is deployed on **Streamlit Cloud**, allowing users to interact with the chatbot directly through their web browser.
