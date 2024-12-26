@@ -26,5 +26,5 @@ To run the chatbot application on your local machine, follow these steps:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your_username/Chatbot-with-Streamlit.git
+   git clone https://github.com/Vaishu-code/Chatbot-with-Streamlit.git
    cd Chatbot-with-Streamlit
